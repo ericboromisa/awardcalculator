@@ -1,0 +1,105 @@
+Operating Carrier,Origin,Destination,Economy,Premium Economy,Business,First
+Star Alliance,Canada & Continental USA,Canada & Continental USA (Short Haul),15K,20K,30K,-
+Star Alliance,Canada & Continental USA,Canada & Continental USA,25K,40K,50K,70K
+Star Alliance,Canada & Continental USA,Hawaii,45K,65K,80K,110K
+Star Alliance,Canada & Continental USA,Mexico,40K,50K,60K,85K
+Star Alliance,Canada & Continental USA,Caribbean & Central America,40K,50K,60K,85K
+Star Alliance,Canada & Continental USA,Northern South America,50K,65K,75K,105K
+Star Alliance,Canada & Continental USA,Southern South America,60K,80K,110K,140K
+Star Alliance,Canada & Continental USA,Europe 1,60K,75K,110K,140K
+Star Alliance,Canada & Continental USA,Europe 2,75K,90K,115K,160K
+Star Alliance,Canada & Continental USA,Asia 1,75K,125K,150K,210K
+Star Alliance,Canada & Continental USA,Asia 2,90K,130K,155K,215K
+Star Alliance,Canada & Continental USA,Middle East & North Africa,80K,135K,165K,230K
+Star Alliance,Canada & Continental USA,Indian Subcontinent,100K,130K,150K,210K
+Star Alliance,Canada & Continental USA,"East, West & South Africa",100K,130K,150K,210K
+Star Alliance,Canada & Continental USA,"Australia, New Zealand & South Pacific",90K,135K,160K,220K
+Star Alliance,Hawaii,Mexico,60K,85K,110K,150K
+Star Alliance,Hawaii,Caribbean & Central America,60K,85K,110K,150K
+Star Alliance,Hawaii,Northern South America,70K,100K,130K,175K
+Star Alliance,Hawaii,Southern South America,80K,120K,140K,190K
+Star Alliance,Hawaii,Europe 1,95K,125K,170K,220K
+Star Alliance,Hawaii,Europe 2,95K,135K,180K,240K
+Star Alliance,Hawaii,Asia 1,80K,130K,160K,200K
+Star Alliance,Hawaii,Asia 2,80K,150K,175K,210K
+Star Alliance,Hawaii,Middle East & North Africa,100K,145K,180K,250K
+Star Alliance,Hawaii,Indian Subcontinent,110K,170K,200K,250K
+Star Alliance,Hawaii,"East, West & South Africa",100K,170K,200K,270K
+Star Alliance,Hawaii,"Australia, New Zealand & South Pacific",80K,120K,150K,190K
+Star Alliance,Mexico,Caribbean & Central America,40K,-,80K,100K
+Star Alliance,Mexico,Northern South America,35K,50K,65K,90K
+Star Alliance,Mexico,Southern South America,55K,80K,100K,130K
+Star Alliance,Mexico,Europe 1,80K,110K,150K,200K
+Star Alliance,Mexico,Europe 2,85K,120K,160K,200K
+Star Alliance,Mexico,Asia 1,95K,135K,170K,220K
+Star Alliance,Mexico,Asia 2,110K,150K,190K,260K
+Star Alliance,Mexico,Middle East & North Africa,110K,140K,160K,225K
+Star Alliance,Mexico,Indian Subcontinent,130K,160K,200K,280K
+Star Alliance,Mexico,"East, West & South Africa",120K,150K,180K,240K
+Star Alliance,Mexico,"Australia, New Zealand & South Pacific",100K,140K,180K,240K
+Star Alliance,Caribbean & Central America,Caribbean & Central America,30K,-,60K,80K
+Star Alliance,Caribbean & Central America,Northern South America,40K,50K,70K,100K
+Star Alliance,Caribbean & Central America,Southern South America,45K,70K,85K,110K
+Star Alliance,Caribbean & Central America,Europe 1,75K,110K,135K,180K
+Star Alliance,Caribbean & Central America,Europe 2,95K,120K,145K,200K
+Star Alliance,Caribbean & Central America,Asia 1,100K,140K,180K,240K
+Star Alliance,Caribbean & Central America,Asia 2,110K,150K,190K,260K
+Star Alliance,Caribbean & Central America,Middle East & North Africa,90K,140K,160K,225K
+Star Alliance,Caribbean & Central America,Indian Subcontinent,110K,170K,200K,280K
+Star Alliance,Caribbean & Central America,"East, West & South Africa",100K,160K,190K,240K
+Star Alliance,Caribbean & Central America,"Australia, New Zealand & South Pacific",100K,140K,180K,240K
+Star Alliance,Northern South America,Northern South America,25K, -,45K,70K
+Star Alliance,Northern South America,Southern South America,40K,50K,70K,90K
+Star Alliance,Northern South America,Europe 1,75K,100K,140K,190K
+Star Alliance,Northern South America,Europe 2,85K,130K,160K,210K
+Star Alliance,Northern South America,Asia 1,110K,170K,200K,270K
+Star Alliance,Northern South America,Asia 2,120K,180K,210K,280K
+Star Alliance,Northern South America,Middle East & North Africa,90K,150K,190K,240K
+Star Alliance,Northern South America,Indian Subcontinent,115K,170K,200K,270K
+Star Alliance,Northern South America,"East, West & South Africa",90K,145K,170K,210K
+Star Alliance,Northern South America,"Australia, New Zealand & South Pacific",100K,150K,175K,220K
+Star Alliance,Southern South America,Southern South America,30K,40K,55K,75K
+Star Alliance,Southern South America,Europe 1,80K,110K,150K,200K
+Star Alliance,Southern South America,Europe 2,90K,130K,170K,220K
+Star Alliance,Southern South America,Asia 1,120K,160K,210K,280K
+Star Alliance,Southern South America,Asia 2,110K,150K,190K,260K
+Star Alliance,Southern South America,Middle East & North Africa,90K,150K,190K,240K
+Star Alliance,Southern South America,Indian Subcontinent,110K,170K,200K,280K
+Star Alliance,Southern South America,"East, West & South Africa",90K,140K,170K,230K
+Star Alliance,Southern South America,"Australia, New Zealand & South Pacific",110K,150K,180K,250K
+Star Alliance,Europe 1,Europe 1,25K,,45K,60K
+Star Alliance,Europe 1,Europe 2,30K,,60K,75K
+Star Alliance,Europe 1,Asia 1,80K,,150K,210K
+Star Alliance,Europe 1,Asia 2,80K,,150K,220K
+Star Alliance,Europe 1,Middle East & North Africa,45K,,90K,120K
+Star Alliance,Europe 1,Indian Subcontinent,70K,,125K,175K
+Star Alliance,Europe 1,"East, West & South Africa",70K,,125K,175K
+Star Alliance,Europe 1,"Australia, New Zealand & South Pacific",110K,,190K,260K
+Star Alliance,Europe 2,Europe 2,30K,,60K,90K
+Star Alliance,Europe 2,Asia 1,80K,,150K,220K
+Star Alliance,Europe 2,Asia 2,80K,,150K,220K
+Star Alliance,Europe 2,Middle East & North Africa,40K,,85K,110K
+Star Alliance,Europe 2,Indian Subcontinent,70K,,125K,175K
+Star Alliance,Europe 2,"East, West & South Africa",75K,,125K,175K
+Star Alliance,Europe 2,"Australia, New Zealand & South Pacific",110K,,190K,260K
+Star Alliance,Asia 1,Asia 1,40K,,80K,110K
+Star Alliance,Asia 1,Asia 2,40K,,80K,130K
+Star Alliance,Asia 1,Middle East & North Africa,65K,,125K,175K
+Star Alliance,Asia 1,Indian Subcontinent,55K,,100K,130K
+Star Alliance,Asia 1,"East, West & South Africa",100K,,180K,250K
+Star Alliance,Asia 1,"Australia, New Zealand & South Pacific",70K,,135K,190K
+Star Alliance,Asia 2,Asia 2,40K,,80K,110K
+Star Alliance,Asia 2,Middle East & North Africa,65K,,125K,170K
+Star Alliance,Asia 2,Indian Subcontinent,55K,,100K,130K
+Star Alliance,Asia 2,"East, West & South Africa",90K,,170K,240K
+Star Alliance,Asia 2,"Australia, New Zealand & South Pacific",70K,,135K,190K
+Star Alliance,Middle East & North Africa,Middle East & North Africa,35K,,80K,110K
+Star Alliance,Middle East & North Africa,Indian Subcontinent,45K,,80K,110K
+Star Alliance,Middle East & North Africa,"East, West & South Africa",65K,,120K,160K
+Star Alliance,Middle East & North Africa,"Australia, New Zealand & South Pacific",100K,,180K,250K
+Star Alliance,Indian Subcontinent,Indian Subcontinent,30K,,60K,80K
+Star Alliance,Indian Subcontinent,"East, West & South Africa",80K,,160K,200K
+Star Alliance,Indian Subcontinent,"Australia, New Zealand & South Pacific",90K,,170K,220K
+Star Alliance,"East, West & South Africa","East, West & South Africa",40K,,80K,120K
+Star Alliance,"East, West & South Africa","Australia, New Zealand & South Pacific",100K,,170K,220K
+Star Alliance,"Australia, New Zealand & South Pacific","Australia, New Zealand & South Pacific",30K,,55K,75K

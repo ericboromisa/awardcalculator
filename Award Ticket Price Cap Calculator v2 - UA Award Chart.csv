@@ -1,0 +1,35 @@
+Program,Operating Carrier,Origin,Destination,Economy Cost (One Way),Business Cost (One Way),First Cost (One Way)
+United,United,"Mainland US, Alaska & Canada","Mainland US, Alaska & Canada",12500,25000,35000
+United,United,"Mainland US, Alaska & Canada",Hawaii,22500,40000,50000
+United,United,"Mainland US, Alaska & Canada",Mexico,17500,30000,40000
+United,United,"Mainland US, Alaska & Canada",Central America,17500,30000,40000
+United,United,"Mainland US, Alaska & Canada",Caribbean,17500,30000,40000
+United,United,"Mainland US, Alaska & Canada",Northern South America,20000,35000,45000
+United,United,"Mainland US, Alaska & Canada",Southern South America,30000,55000,70000
+United,United,"Mainland US, Alaska & Canada",Europe,30000,57500,80000
+United,United,"Mainland US, Alaska & Canada",Northern Africa,40000,70000,85000
+United,United,"Mainland US, Alaska & Canada",Central/Southern Africa,40000,70000,85000
+United,United,"Mainland US, Alaska & Canada",Middle East,42500,70000,90000
+United,United,"Mainland US, Alaska & Canada",Central Asia,42500,70000,90000
+United,United,"Mainland US, Alaska & Canada",South Asia,40000,70000,80000
+United,United,"Mainland US, Alaska & Canada",North Asia,35000,70000,80000
+United,United,"Mainland US, Alaska & Canada",Japan,35000,65000,80000
+United,United,"Mainland US, Alaska & Canada",Oceania,35000,65000,80000
+United,United,"Mainland US, Alaska & Canada",Australia / New Zealand,40000,70000,80000
+United,Partner,"Mainland US, Alaska & Canada","Mainland US, Alaska & Canada",12500,25000,35000
+United,Partner,"Mainland US, Alaska & Canada",Hawaii,22500,40000,50000
+United,Partner,"Mainland US, Alaska & Canada",Mexico,17500,30000,40000
+United,Partner,"Mainland US, Alaska & Canada",Central America,17500,30000,40000
+United,Partner,"Mainland US, Alaska & Canada",Caribbean,17500,30000,40000
+United,Partner,"Mainland US, Alaska & Canada",Northern South America,20000,35000,45000
+United,Partner,"Mainland US, Alaska & Canada",Southern South America,30000,55000,70000
+United,Partner,"Mainland US, Alaska & Canada",Europe,30000,70000,110000
+United,Partner,"Mainland US, Alaska & Canada",Northern Africa,40000,80000,130000
+United,Partner,"Mainland US, Alaska & Canada",Central/Southern Africa,40000,80000,130000
+United,Partner,"Mainland US, Alaska & Canada",Middle East,42500,80000,140000
+United,Partner,"Mainland US, Alaska & Canada",Central Asia,42500,80000,140000
+United,Partner,"Mainland US, Alaska & Canada",South Asia,40000,80000,130000
+United,Partner,"Mainland US, Alaska & Canada",North Asia,35000,80000,120000
+United,Partner,"Mainland US, Alaska & Canada",Japan,35000,75000,110000
+United,Partner,"Mainland US, Alaska & Canada",Oceania,35000,75000,110000
+United,Partner,"Mainland US, Alaska & Canada",Australia / New Zealand,40000,80000,130000

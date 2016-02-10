@@ -1,0 +1,324 @@
+Program,Operating Carrier,Origin,Destination,Economy Cost (One Way),Business Cost (One Way),First Cost (One Way),
+United,United,"Mainland US, Alaska & Canada","Mainland US, Alaska & Canada",12500,25000,35000,N/A
+United,United,"Mainland US, Alaska & Canada",Hawaii,22500,40000,50000,N/A
+United,United,"Mainland US, Alaska & Canada",Mexico,17500,30000,40000,N/A
+United,United,"Mainland US, Alaska & Canada",Central America,17500,30000,40000,N/A
+United,United,"Mainland US, Alaska & Canada",Caribbean,17500,30000,40000,N/A
+United,United,"Mainland US, Alaska & Canada",Northern South America,20000,35000,45000,N/A
+United,United,"Mainland US, Alaska & Canada",Southern South America,30000,55000,70000,N/A
+United,United,"Mainland US, Alaska & Canada",Europe,30000,57500,80000,N/A
+United,United,"Mainland US, Alaska & Canada",Northern Africa,40000,70000,85000,N/A
+United,United,"Mainland US, Alaska & Canada",Central/Southern Africa,40000,70000,85000,N/A
+United,United,"Mainland US, Alaska & Canada",Middle East,42500,70000,90000,N/A
+United,United,"Mainland US, Alaska & Canada",Central Asia,42500,70000,90000,N/A
+United,United,"Mainland US, Alaska & Canada",South Asia,40000,70000,80000,N/A
+United,United,"Mainland US, Alaska & Canada",North Asia,35000,70000,80000,N/A
+United,United,"Mainland US, Alaska & Canada",Japan,35000,65000,80000,N/A
+United,United,"Mainland US, Alaska & Canada",Oceania,35000,65000,80000,N/A
+United,United,"Mainland US, Alaska & Canada",Australia / New Zealand,40000,70000,80000,N/A
+United,Partner,"Mainland US, Alaska & Canada","Mainland US, Alaska & Canada",12500,25000,35000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Hawaii,22500,40000,50000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Mexico,17500,30000,40000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Central America,17500,30000,40000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Caribbean,17500,30000,40000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Northern South America,20000,35000,45000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Southern South America,30000,55000,70000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Europe,30000,70000,110000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Northern Africa,40000,80000,130000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Central/Southern Africa,40000,80000,130000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Middle East,42500,80000,140000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Central Asia,42500,80000,140000,N/A
+United,Partner,"Mainland US, Alaska & Canada",South Asia,40000,80000,130000,N/A
+United,Partner,"Mainland US, Alaska & Canada",North Asia,35000,80000,120000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Japan,35000,75000,110000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Oceania,35000,75000,110000,N/A
+United,Partner,"Mainland US, Alaska & Canada",Australia / New Zealand,40000,80000,130000,N/A
+United,Partner,Hawaii,Hawaii,6000,8500,10000,N/A
+United,Partner,Hawaii,Mexico,25000,42500,52500,N/A
+United,Partner,Hawaii,Central America,25000,42500,52500,N/A
+United,Partner,Hawaii,Caribbean,25000,42500,52500,N/A
+United,Partner,Hawaii,Northern South America,25000,45000,60000,N/A
+United,Partner,Hawaii,Southern South America,30000,60000,75000,N/A
+United,Partner,Hawaii,Europe,35000,75000,120000,N/A
+United,Partner,Hawaii,Northern Africa,50000,85000,140000,N/A
+United,Partner,Hawaii,Central/Southern Africa,50000,85000,140000,N/A
+United,Partner,Hawaii,Middle East,45000,85000,140000,N/A
+United,Partner,Hawaii,Central Asia,45000,85000,140000,N/A
+United,Partner,Hawaii,South Asia,35000,60000,80000,N/A
+United,Partner,Hawaii,North Asia,27500,52500,80000,N/A
+United,Partner,Hawaii,Japan,25000,50000,80000,N/A
+United,Partner,Hawaii,Oceania,25000,50000,80000,N/A
+United,Partner,Hawaii,Australia / New Zealand,35000,60000,80000,N/A
+United,Partner,Mexico,Mexico,10000,20000,40000,N/A
+United,Partner,Mexico,Central America,10000,20000,40000,N/A
+United,Partner,Mexico,Caribbean,10000,20000,40000,N/A
+United,Partner,Mexico,Northern South America,10000,20000,40000,N/A
+United,Partner,Mexico,Southern South America,20000,40000,60000,N/A
+United,Partner,Mexico,Europe,35000,75000,120000,N/A
+United,Partner,Mexico,Northern Africa,45000,85000,135000,N/A
+United,Partner,Mexico,Central/Southern Africa,45000,85000,135000,N/A
+United,Partner,Mexico,Middle East,45000,85000,140000,N/A
+United,Partner,Mexico,Central Asia,45000,85000,140000,N/A
+United,Partner,Mexico,South Asia,35000,85000,130000,N/A
+United,Partner,Mexico,North Asia,27500,82500,130000,N/A
+United,Partner,Mexico,Japan,25000,85000,120000,N/A
+United,Partner,Mexico,Oceania,25000,85000,120000,N/A
+United,Partner,Mexico,Australia / New Zealand,35000,85000,130000,N/A
+United,Partner,Central America,Central America,10000,20000,40000,N/A
+United,Partner,Central America,Caribbean,10000,20000,40000,N/A
+United,Partner,Central America,Northern South America,10000,20000,40000,N/A
+United,Partner,Central America,Southern South America,20000,40000,60000,N/A
+United,Partner,Central America,Europe,35000,75000,120000,N/A
+United,Partner,Central America,Northern Africa,45000,85000,135000,N/A
+United,Partner,Central America,Central/Southern Africa,45000,85000,135000,N/A
+United,Partner,Central America,Middle East,45000,85000,140000,N/A
+United,Partner,Central America,Central Asia,45000,85000,140000,N/A
+United,Partner,Central America,South Asia,45000,85000,130000,N/A
+United,Partner,Central America,North Asia,37500,82500,130000,N/A
+United,Partner,Central America,Japan,37500,85000,120000,N/A
+United,Partner,Central America,Oceania,37500,85000,120000,N/A
+United,Partner,Central America,Australia / New Zealand,45000,85000,130000,N/A
+United,Partner,Caribbean,Caribbean,10000,20000,40000,N/A
+United,Partner,Caribbean,Northern South America,10000,20000,40000,N/A
+United,Partner,Caribbean,Southern South America,20000,40000,60000,N/A
+United,Partner,Caribbean,Europe,35000,75000,120000,N/A
+United,Partner,Caribbean,Northern Africa,45000,85000,135000,N/A
+United,Partner,Caribbean,Central/Southern Africa,45000,85000,135000,N/A
+United,Partner,Caribbean,Middle East,45000,85000,140000,N/A
+United,Partner,Caribbean,Central Asia,45000,85000,140000,N/A
+United,Partner,Caribbean,South Asia,45000,85000,130000,N/A
+United,Partner,Caribbean,North Asia,37500,82500,130000,N/A
+United,Partner,Caribbean,Japan,37500,85000,120000,N/A
+United,Partner,Caribbean,Oceania,37500,85000,120000,N/A
+United,Partner,Caribbean,Australia / New Zealand,45000,85000,130000,N/A
+United,Partner,Northern South America,Northern South America,10000,20000,30000,N/A
+United,Partner,Northern South America,Southern South America,20000,40000,45000,N/A
+United,Partner,Northern South America,Europe,40000,80000,120000,N/A
+United,Partner,Northern South America,Northern Africa,55000,90000,130000,N/A
+United,Partner,Northern South America,Central/Southern Africa,55000,90000,130000,N/A
+United,Partner,Northern South America,Middle East,50000,85000,140000,N/A
+United,Partner,Northern South America,Central Asia,50000,85000,140000,N/A
+United,Partner,Northern South America,South Asia,45000,85000,130000,N/A
+United,Partner,Northern South America,North Asia,47500,82500,130000,N/A
+United,Partner,Northern South America,Japan,45000,85000,120000,N/A
+United,Partner,Northern South America,Oceania,45000,85000,120000,N/A
+United,Partner,Northern South America,Australia / New Zealand,45000,85000,130000,N/A
+United,Partner,Southern South America,Southern South America,12500,20000,30000,N/A
+United,Partner,Southern South America,Europe,47500,87500,125000,N/A
+United,Partner,Southern South America,Northern Africa,30000,45000,70000,N/A
+United,Partner,Southern South America,Central/Southern Africa,30000,45000,70000,N/A
+United,Partner,Southern South America,Middle East,60000,90000,140000,N/A
+United,Partner,Southern South America,Central Asia,60000,90000,140000,N/A
+United,Partner,Southern South America,South Asia,50000,82500,135000,N/A
+United,Partner,Southern South America,North Asia,50000,85000,135000,N/A
+United,Partner,Southern South America,Japan,55000,85000,125000,N/A
+United,Partner,Southern South America,Oceania,55000,85000,125000,N/A
+United,Partner,Southern South America,Australia / New Zealand,50000,82500,135000,N/A
+United,Partner,Europe,Europe,15000,30000,40000,N/A
+United,Partner,Europe,Northern Africa,30000,55000,100000,N/A
+United,Partner,Europe,Central/Southern Africa,30000,55000,100000,N/A
+United,Partner,Europe,Middle East,25000,45000,60000,N/A
+United,Partner,Europe,Central Asia,25000,45000,60000,N/A
+United,Partner,Europe,South Asia,55000,85000,115000,N/A
+United,Partner,Europe,North Asia,45000,75000,115000,N/A
+United,Partner,Europe,Japan,45000,75000,115000,N/A
+United,Partner,Europe,Oceania,45000,75000,115000,N/A
+United,Partner,Europe,Australia / New Zealand,55000,85000,115000,N/A
+United,Partner,Northern Africa,Northern Africa,17500,35000,50000,N/A
+United,Partner,Northern Africa,Central/Southern Africa,17500,35000,50000,N/A
+United,Partner,Northern Africa,Middle East,30000,55000,80000,N/A
+United,Partner,Northern Africa,Central Asia,30000,55000,80000,N/A
+United,Partner,Northern Africa,South Asia,50000,85000,115000,N/A
+United,Partner,Northern Africa,North Asia,45000,75000,115000,N/A
+United,Partner,Northern Africa,Japan,45000,75000,115000,N/A
+United,Partner,Northern Africa,Oceania,45000,75000,115000,N/A
+United,Partner,Northern Africa,Australia / New Zealand,50000,85000,115000,N/A
+United,Partner,Central/Southern Africa,Central/Southern Africa,17500,35000,50000,N/A
+United,Partner,Central/Southern Africa,Middle East,30000,55000,80000,N/A
+United,Partner,Central/Southern Africa,Central Asia,30000,55000,80000,N/A
+United,Partner,Central/Southern Africa,South Asia,50000,85000,115000,N/A
+United,Partner,Central/Southern Africa,North Asia,45000,75000,115000,N/A
+United,Partner,Central/Southern Africa,Japan,45000,75000,115000,N/A
+United,Partner,Central/Southern Africa,Oceania,45000,75000,115000,N/A
+United,Partner,Central/Southern Africa,Australia / New Zealand,50000,85000,115000,N/A
+United,Partner,Middle East,Middle East,20000,35000,45000,N/A
+United,Partner,Middle East,Central Asia,20000,35000,45000,N/A
+United,Partner,Middle East,South Asia,35000,60000,110000,N/A
+United,Partner,Middle East,North Asia,37500,60000,110000,N/A
+United,Partner,Middle East,Japan,35000,65000,110000,N/A
+United,Partner,Middle East,Oceania,35000,65000,110000,N/A
+United,Partner,Middle East,Australia / New Zealand,35000,60000,110000,N/A
+United,Partner,Central Asia,Central Asia,20000,35000,45000,N/A
+United,Partner,Central Asia,South Asia,35000,60000,110000,N/A
+United,Partner,Central Asia,North Asia,37500,60000,110000,N/A
+United,Partner,Central Asia,Japan,35000,65000,110000,N/A
+United,Partner,Central Asia,Oceania,35000,65000,110000,N/A
+United,Partner,Central Asia,Australia / New Zealand,35000,60000,110000,N/A
+United,Partner,South Asia,South Asia,17500,30000,40000,N/A
+United,Partner,South Asia,North Asia,20000,40000,50000,N/A
+United,Partner,South Asia,Japan,22500,40000,60000,N/A
+United,Partner,South Asia,Oceania,22500,40000,60000,N/A
+United,Partner,South Asia,Australia / New Zealand,17500,30000,40000,N/A
+United,Partner,North Asia,North Asia,15000,22500,30000,N/A
+United,Partner,North Asia,Japan,15000,30000,40000,N/A
+United,Partner,North Asia,Oceania,15000,30000,40000,N/A
+United,Partner,North Asia,Australia / New Zealand,20000,40000,50000,N/A
+United,Partner,Japan,Japan,5000,12000,16000,N/A
+United,Partner,Japan,Oceania,12500,30000,40000,N/A
+United,Partner,Japan,Australia / New Zealand,22500,40000,60000,N/A
+United,Partner,Oceania,Oceania,12500,30000,40000,N/A
+United,Partner,Oceania,Australia / New Zealand,22500,40000,60000,N/A
+United,Partner,Australia / New Zealand,Australia / New Zealand,17500,30000,40000,N/A
+United,United,Hawaii,Hawaii,6000,8500,10000,N/A
+United,United,Hawaii,Mexico,25000,42500,52500,N/A
+United,United,Hawaii,Central America,25000,42500,52500,N/A
+United,United,Hawaii,Caribbean,25000,42500,52500,N/A
+United,United,Hawaii,Northern South America,25000,45000,60000,N/A
+United,United,Hawaii,Southern South America,30000,60000,75000,N/A
+United,United,Hawaii,Europe,35000,65000,85000,N/A
+United,United,Hawaii,Northern Africa,50000,75000,90000,N/A
+United,United,Hawaii,Central/Southern Africa,50000,75000,90000,N/A
+United,United,Hawaii,Middle East,45000,75000,95000,N/A
+United,United,Hawaii,Central Asia,45000,75000,95000,N/A
+United,United,Hawaii,South Asia,35000,50000,60000,N/A
+United,United,Hawaii,North Asia,27500,42500,65000,N/A
+United,United,Hawaii,Japan,25000,40000,62500,N/A
+United,United,Hawaii,Oceania,25000,40000,62500,N/A
+United,United,Hawaii,Australia / New Zealand,35000,50000,60000,N/A
+United,United,Mexico,Mexico,10000,20000,40000,N/A
+United,United,Mexico,Central America,10000,20000,40000,N/A
+United,United,Mexico,Caribbean,10000,20000,40000,N/A
+United,United,Mexico,Northern South America,10000,20000,40000,N/A
+United,United,Mexico,Southern South America,20000,40000,60000,N/A
+United,United,Mexico,Europe,35000,65000,85000,N/A
+United,United,Mexico,Northern Africa,45000,75000,95000,N/A
+United,United,Mexico,Central/Southern Africa,45000,75000,95000,N/A
+United,United,Mexico,Middle East,45000,75000,95000,N/A
+United,United,Mexico,Central Asia,45000,75000,95000,N/A
+United,United,Mexico,South Asia,45000,75000,95000,N/A
+United,United,Mexico,North Asia,37500,72500,82500,N/A
+United,United,Mexico,Japan,37500,75000,95000,N/A
+United,United,Mexico,Oceania,37500,75000,95000,N/A
+United,United,Mexico,Australia / New Zealand,45000,75000,95000,N/A
+United,United,Central America,Central America,10000,20000,40000,N/A
+United,United,Central America,Caribbean,10000,20000,40000,N/A
+United,United,Central America,Northern South America,10000,20000,40000,N/A
+United,United,Central America,Southern South America,20000,40000,60000,N/A
+United,United,Central America,Europe,35000,65000,85000,N/A
+United,United,Central America,Northern Africa,45000,75000,95000,N/A
+United,United,Central America,Central/Southern Africa,45000,75000,95000,N/A
+United,United,Central America,Middle East,45000,75000,95000,N/A
+United,United,Central America,Central Asia,45000,75000,95000,N/A
+United,United,Central America,South Asia,45000,75000,95000,N/A
+United,United,Central America,North Asia,37500,72500,82500,N/A
+United,United,Central America,Japan,37500,75000,95000,N/A
+United,United,Central America,Oceania,37500,75000,95000,N/A
+United,United,Central America,Australia / New Zealand,45000,75000,95000,N/A
+United,United,Caribbean,Caribbean,10000,20000,40000,N/A
+United,United,Caribbean,Northern South America,10000,20000,40000,N/A
+United,United,Caribbean,Southern South America,20000,40000,60000,N/A
+United,United,Caribbean,Europe,35000,65000,85000,N/A
+United,United,Caribbean,Northern Africa,45000,75000,95000,N/A
+United,United,Caribbean,Central/Southern Africa,45000,75000,95000,N/A
+United,United,Caribbean,Middle East,45000,75000,95000,N/A
+United,United,Caribbean,Central Asia,45000,75000,95000,N/A
+United,United,Caribbean,South Asia,45000,75000,95000,N/A
+United,United,Caribbean,North Asia,37500,72500,82500,N/A
+United,United,Caribbean,Japan,37500,75000,95000,N/A
+United,United,Caribbean,Oceania,37500,75000,95000,N/A
+United,United,Caribbean,Australia / New Zealand,45000,75000,95000,N/A
+United,United,Northern South America,Northern South America,7500,20000,30000,N/A
+United,United,Northern South America,Southern South America,20000,40000,45000,N/A
+United,United,Northern South America,Europe,40000,70000,90000,N/A
+United,United,Northern South America,Northern Africa,55000,80000,100000,N/A
+United,United,Northern South America,Central/Southern Africa,55000,80000,100000,N/A
+United,United,Northern South America,Middle East,50000,75000,95000,N/A
+United,United,Northern South America,Central Asia,50000,75000,95000,N/A
+United,United,Northern South America,South Asia,45000,75000,95000,N/A
+United,United,Northern South America,North Asia,47500,72500,95000,N/A
+United,United,Northern South America,Japan,45000,75000,95000,N/A
+United,United,Northern South America,Oceania,45000,75000,95000,N/A
+United,United,Northern South America,Australia / New Zealand,45000,75000,95000,N/A
+United,United,Southern South America,Southern South America,12500,20000,30000,N/A
+United,United,Southern South America,Europe,47500,77500,95000,N/A
+United,United,Southern South America,Northern Africa,60000,87500,107500,N/A
+United,United,Southern South America,Central/Southern Africa,60000,87500,107500,N/A
+United,United,Southern South America,Middle East,60000,80000,105000,N/A
+United,United,Southern South America,Central Asia,60000,80000,105000,N/A
+United,United,Southern South America,South Asia,50000,72500,90000,N/A
+United,United,Southern South America,North Asia,50000,75000,95000,N/A
+United,United,Southern South America,Japan,55000,75000,95000,N/A
+United,United,Southern South America,Oceania,55000,75000,95000,N/A
+United,United,Southern South America,Australia / New Zealand,50000,72500,90000,N/A
+United,United,Europe,Europe,15000,25000,35000,N/A
+United,United,Europe,Northern Africa,30000,45000,60000,N/A
+United,United,Europe,Central/Southern Africa,30000,45000,60000,N/A
+United,United,Europe,Middle East,25000,35000,45000,N/A
+United,United,Europe,Central Asia,25000,35000,45000,N/A
+United,United,Europe,South Asia,55000,75000,100000,N/A
+United,United,Europe,North Asia,45000,65000,80000,N/A
+United,United,Europe,Japan,45000,65000,80000,N/A
+United,United,Europe,Oceania,45000,65000,80000,N/A
+United,United,Europe,Australia / New Zealand,55000,75000,100000,N/A
+United,United,Northern Africa,Northern Africa,17500,30000,45000,N/A
+United,United,Northern Africa,Central/Southern Africa,17500,30000,45000,N/A
+United,United,Northern Africa,Middle East,30000,45000,60000,N/A
+United,United,Northern Africa,Central Asia,30000,45000,60000,N/A
+United,United,Northern Africa,South Asia,50000,75000,100000,N/A
+United,United,Northern Africa,North Asia,45000,65000,75000,N/A
+United,United,Northern Africa,Japan,45000,65000,75000,N/A
+United,United,Northern Africa,Oceania,45000,65000,75000,N/A
+United,United,Northern Africa,Australia / New Zealand,50000,75000,100000,N/A
+United,United,Central/Southern Africa,Central/Southern Africa,17500,30000,45000,N/A
+United,United,Central/Southern Africa,Middle East,30000,45000,60000,N/A
+United,United,Central/Southern Africa,Central Asia,30000,45000,60000,N/A
+United,United,Central/Southern Africa,South Asia,50000,75000,100000,N/A
+United,United,Central/Southern Africa,North Asia,45000,65000,75000,N/A
+United,United,Central/Southern Africa,Japan,45000,65000,75000,N/A
+United,United,Central/Southern Africa,Oceania,45000,65000,75000,N/A
+United,United,Central/Southern Africa,Australia / New Zealand,50000,75000,100000,N/A
+United,United,Middle East,Middle East,20000,30000,40000,N/A
+United,United,Middle East,Central Asia,20000,30000,40000,N/A
+United,United,Middle East,South Asia,35000,50000,60000,N/A
+United,United,Middle East,North Asia,37500,50000,65000,N/A
+United,United,Middle East,Japan,35000,55000,75000,N/A
+United,United,Middle East,Oceania,35000,55000,75000,N/A
+United,United,Middle East,Australia / New Zealand,35000,50000,60000,N/A
+United,United,Central Asia,Central Asia,20000,30000,40000,N/A
+United,United,Central Asia,South Asia,35000,50000,60000,N/A
+United,United,Central Asia,North Asia,37500,50000,65000,N/A
+United,United,Central Asia,Japan,35000,55000,75000,N/A
+United,United,Central Asia,Oceania,35000,55000,75000,N/A
+United,United,Central Asia,Australia / New Zealand,35000,50000,60000,N/A
+United,United,South Asia,South Asia,17500,25000,35000,N/A
+United,United,South Asia,North Asia,20000,35000,45000,N/A
+United,United,South Asia,Japan,22500,35000,55000,N/A
+United,United,South Asia,Oceania,22500,35000,55000,N/A
+United,United,South Asia,Australia / New Zealand,17500,25000,35000,N/A
+United,United,North Asia,North Asia,15000,22500,30000,N/A
+United,United,North Asia,Japan,15000,25000,35000,N/A
+United,United,North Asia,Oceania,15000,25000,35000,N/A
+United,United,North Asia,Australia / New Zealand,20000,35000,45000,N/A
+United,United,Japan,Japan,5000,12000,16000,N/A
+United,United,Japan,Oceania,12500,25000,35000,N/A
+United,United,Japan,Australia / New Zealand,22500,35000,55000,N/A
+United,United,Oceania,Oceania,12500,25000,35000,N/A
+United,United,Oceania,Australia / New Zealand,22500,35000,55000,N/A
+United,United,Australia / New Zealand,Australia / New Zealand,17500,25000,35000,N/A
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
+United,Partner,,,,,,
